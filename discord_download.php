@@ -2,7 +2,7 @@
 
 
 function call_url($url) {
-	$authkey = 'MjgzMzk1ODIxNzk2MzI3NDI1.C8MWrg.7X5NHRBL9WV7i49THl2ESBaHcpE';
+	$authkey = '[ENTER YOUR USER OAUTH2 KEY HERE]';
 
 	$curl = curl_init();
 
